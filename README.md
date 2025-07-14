@@ -49,7 +49,7 @@ This repository contains real-world Excel automation templates built to solve co
 - **Excel (Advanced)** — Macros, Pivot Tables, Dynamic Templates, MIS, Validations  
 - **Power BI** — Dashboards, KPIs, DAX, Reports  
 - **SQL** — Joins, Aggregations, Subqueries, Data Pipelines  
-- **Python (Beginner)**  
+- **Python**  
 - **Figma**, **Canva**, **PowerPoint**
 
 ---
