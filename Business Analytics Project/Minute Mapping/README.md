@@ -1,4 +1,4 @@
-# 📊 Minute Mapping System – Excel Automation Template
+<img width="1811" height="30" alt="image" src="https://github.com/user-attachments/assets/d76fc8fe-3ae4-4476-a9e8-5b53555cd6f0" /># 📊 Minute Mapping System – Excel Automation Template
 
 A powerful Excel-based solution designed to process VoIP call data (CDRs) by mapping traffic to carriers using IP addresses. Built to streamline traffic analysis and ensure accurate billing in IPRN/VoIP environments.
 
@@ -23,7 +23,8 @@ This system enables telecom or VoIP teams to:
 
 2. **Minute Mapping Dashboard (Working File 2)**  
    - Sheet "H": Consolidated daily totals, weekly summaries, and comparison table  
-   - Sheets W1–W5: Weekly breakdowns  
+   - Sheets W1–W5: Weekly breakdowns
+   - Sheet "M": Monthly minute mapping
    - Sheets 1–31: Individual day-wise input sheets
 
 3. **Sample CDR File**  
