@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ashish Janeshwar
+# 👋 Hi, I'm Ashish
 
 🎯 Business Analyst | Process Automation | Power BI & Excel Expert | Cross-Functional Data Solutions
 
