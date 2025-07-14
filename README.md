@@ -6,7 +6,7 @@
 
 Welcome to my GitHub!
 
-With over **4.5 years of experience** across **Sales, Operations, and Finance**, I specialize in building **data-driven systems** that automate workflows, reduce manual effort, and drive smarter decision-making across departments.
+With over **5 years of experience** across **Sales, Operations, and Finance**, I specialize in building **data-driven systems** that automate workflows, reduce manual effort, and drive smarter decision-making across departments.
 
 These are just a few of the solutions I’ve open-sourced.
 
